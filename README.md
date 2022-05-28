@@ -5,5 +5,5 @@
 </div>
 
 <div align="center">
-  ![Pipi-Olo's github stats](https://github-readme-stats.vercel.app/api?username=Pipi-Olo&show_icons=true&theme=merko)
+    <img src="https://github-readme-stats.vercel.app/api?username=Pipi-Olo&show_icons=true&theme=merko"/>
 </div>
